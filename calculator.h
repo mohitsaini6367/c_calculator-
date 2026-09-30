@@ -1,36 +1,3 @@
-// #ifndef CALCULATOR_H
-// #define CALCULATOR_H
-
-// //primery operations
-// double add(double a, double b);
-// double subtract(double a, double b);
-// double multiply(double a, double b);
-// double divide(double a, double b);
-
-// //2nd step formation
-
-// double calculate(double a, double b, char op);
-// //the 3rd step formation
-
-// void appendDigit(char display[], char digit);
-// void clearDisplay(char display[]);
-// void deleteLast(char display[]);
-
-// int addDecimal(char display[]);
-
-// // void startOperation(char display[], double *firstNumber, char *op);
-// // double finishOperation(char display[], double firstNumber, char op);
-
-// int pressEquals(char display[], double firstNumber, char op);
-// void pressOperator(char display[], double *firstNumber, char *op, char newOp);
-
-// void toggleSign(char display[]);
-
-
-// void percentage(char display[]);
-
-
-// #endif 
 
 
 #ifndef CALCULATOR_H
