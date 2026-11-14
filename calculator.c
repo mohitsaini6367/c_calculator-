@@ -396,5 +396,5 @@ void calculatorPressPercentage(CalculatorState *calc)
     percentage(calc->display);
 }
 
-
+// use this download zip open in vs code and take a try
     
