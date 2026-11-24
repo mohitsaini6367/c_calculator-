@@ -90,3 +90,7 @@ void calculatorPressPercentage(
 
 
 #endif
+
+
+
+// I use ai sometime to complete some complex task for me as a new coder
